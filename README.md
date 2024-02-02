@@ -1,4 +1,4 @@
-# DN Basic Webpage Framework
+# DN Basic Web Framework
 Using **HTML**, **CSS** and **JavaScript**.
 
 This framework allows you to practice developing basic webpages in HTML, CSS, JavaScript.
