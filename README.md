@@ -153,9 +153,9 @@ function Section2Content(){
     return `
     <p class="section-title">Section 2</p>
     <div class="section-nav">
-    <a href="#section1" class="nav-link green-btn">Section 1</a>
-    <a href="#section2" class="nav-link green-btn btn-disabled">Section 2</a>
-    <a href="#section3" class="nav-link green-btn">Section 3</a>
+        <a href="#section1" class="nav-link green-btn">Section 1</a>
+        <a href="#section2" class="nav-link green-btn btn-disabled">Section 2</a>
+        <a href="#section3" class="nav-link green-btn">Section 3</a>
     </div>
     `;
 }
@@ -164,9 +164,9 @@ function Section3Content(){
     return `
     <p class="section-title">Section 3</p>
     <div class="section-nav">
-    <a href="#section1" class="nav-link green-btn">Section 1</a>
-    <a href="#section2" class="nav-link green-btn">Section 2</a>
-    <a href="#section3" class="nav-link green-btn btn-disabled">Section 3</a>
+        <a href="#section1" class="nav-link green-btn">Section 1</a>
+        <a href="#section2" class="nav-link green-btn">Section 2</a>
+        <a href="#section3" class="nav-link green-btn btn-disabled">Section 3</a>
     </div>
     `;
 }
