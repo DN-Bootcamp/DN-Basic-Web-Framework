@@ -1,7 +1,7 @@
 # DN Basic Web Framework
 Using **HTML**, **CSS** and **JavaScript**.
 
-This framework allows you to practice developing basic webpages in HTML, CSS, JavaScript.
+Created for the DN Bootcamp, this framework allows you to practice developing basic webpages in HTML, CSS, JavaScript.
 
 What are Web Frameworks? - [mdn web docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks)
 
